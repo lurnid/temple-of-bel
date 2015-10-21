@@ -1,14 +1,16 @@
 # Modeling
 
-3D modeling work for [#NEWPALMYRA](http://newpalmyra.org).
+3D modeling work for [#NEWPALMYRA](http://newpalmyra.org), started by Bassel Khartabil. See <http://www.wired.com/2015/10/jailed-activist-bassel-khartabil-3d-models-could-save-syrian-history-from-isis/> for the backstory.
 
-Contacts and how to follow and get involved will be added at launch.
+See <https://github.com/newpalmyra/newpalmyra.org> for website code and issues.
 
-More files added ongoing.
+See the website for how to follow and get involved generally, points of contact. Email to <info@newpalmyra.org> always welcome!
+
+More model files added ongoing.
 
 # TODOS
 
-* See the todo.md file. Do a todo, close a todo.
+See the todo.md file. Do a todo, close a todo.
 
 # License
 
